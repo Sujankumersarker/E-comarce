@@ -1,1 +1,18 @@
-style.css
+body{
+   font-size: 20px;
+}
+
+.text{
+   color: grey;
+}
+.logo{
+   background-color: honeydew;
+
+}
+.logo img{width: 150px;height: 50px;;}
+#button{
+ 
+   border-radius: 20px;
+
+
+}
