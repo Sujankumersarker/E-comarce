@@ -1,18 +1,126 @@
 body{
    font-size: 20px;
+
+}
+h1{
+   font-weight: 700;
 }
 
-.text{
-   color: grey;
-}
-.logo{
+.logo-area{
    background-color: honeydew;
 
 }
-.logo img{width: 150px;height: 50px;;}
-#button{
- 
+.logo img{
+   width: 150px;height: 50px;
+   margin-top: 20px;
+}
+.nav-pills .nav-link {
+   border-radius: 1.25rem;
+   margin-top: 20px;
+   color: black;
+}
+.are{
+   color: red;
+}
+.any{
+   color: green;
+
+}
+.get{
+
+   background-color: green;
    border-radius: 20px;
+   padding: 5px 30px;
+}
+.get a{
+   text-decoration: none;
 
+   color: white;
+ 
 
+}
+.slide{
+   width: 480px;
+   height: 350px;
+   padding: 30px;
+   margin: 20px;
+}
+.slide img{
+   width: 500px;
+   height: 290px;
+   
+}
+.card-deck{
+margin: 20px;
+
+}
+.card{
+   padding: 20px 10px;
+   background-color: honeydew;
+   box-shadow: 5px 5px 10px gray;
+   box-sizing: content-box;
+   
+}
+.btn-outline:hover{
+   background-color: white;
+   color: black;
+}
+.btn-outline a:hover{
+   text-decoration: none;
+}
+
+.card img{
+   width: 100px;
+   height: 100px;
+
+}
+.card-body{
+   font-size: 14px;
+}
+.online{
+   text-align: center;
+   margin: 50px;
+
+}
+.Morder{
+border-radius: 10px;
+background-color: white;
+}
+.Morder img{
+   border-radius: 10px;
+   width: 250px;height: 150px;
+}
+
+.img {
+    vertical-align: middle;
+    border-style: none;
+    width: 100px
+   }
+.text{
+      width: 600px;
+      margin-left: 50px;
+   }
+.bottom{
+   background-color: black;
+   color: white;
+   
+}
+
+.text-link{
+   color: white;
+}
+.col-5{
+   margin-top: 30px;
+}
+.col-2{
+   margin-top:30px;
+      
+   }
+
+.copy{
+   color: rgb(20, 139, 70);
+   margin-top: 50px;
+   background-color: black;
+   color: white;
+   
 }
